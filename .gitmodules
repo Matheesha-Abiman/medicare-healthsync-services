@@ -1,0 +1,9 @@
+[submodule "healthsync-appointment-service"]
+	path = healthsync-appointment-service
+	url = https://github.com/Matheesha-Abiman/healthsync-appointment-service.git
+[submodule "healthsync-doctor-service"]
+	path = healthsync-doctor-service
+	url = https://github.com/Matheesha-Abiman/healthsync-doctor-service.git
+[submodule "healthsync-patient-service"]
+	path = healthsync-patient-service
+	url = https://github.com/Matheesha-Abiman/healthsync-patient-service.git
